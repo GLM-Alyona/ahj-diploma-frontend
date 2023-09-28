@@ -1,3 +1,4 @@
+/* eslint-disable radix */
 // конвертирование размера файла
 
 export default function bytesToSize(bytes) {

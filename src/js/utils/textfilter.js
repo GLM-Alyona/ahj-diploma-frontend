@@ -1,3 +1,5 @@
+/* eslint-disable no-useless-escape */
+/* eslint-disable func-names */
 // фильтрация вводимого сообщение на наличие ссылок
 
 export default function (str) {

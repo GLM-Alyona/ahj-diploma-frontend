@@ -1,3 +1,4 @@
+/* eslint-disable no-param-reassign */
 // динамическая высота тестового поля для воода сообщения
 
 export default function resize(target, height) {

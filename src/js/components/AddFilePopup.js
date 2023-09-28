@@ -1,3 +1,5 @@
+/* eslint-disable class-methods-use-this */
+/* eslint-disable no-param-reassign */
 import bytesToSize from '../utils/bytesToSIze';
 import element from '../utils/element';
 import changeHandler from '../utils/changeHandler';

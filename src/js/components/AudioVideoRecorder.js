@@ -1,3 +1,6 @@
+/* eslint-disable class-methods-use-this */
+/* eslint-disable no-plusplus */
+/* eslint-disable no-unreachable */
 import {
   mediaButtons,
   mediaControllers,
